@@ -29,7 +29,7 @@ This project gets your recent commits from your activities fetched from GitHub A
 1. Open the "Actions" tab of your fork and click the "enable" button.
 1. Edit the [environment variable](https://github.com/inokawa/lang-box/blob/master/.github/workflows/run.yml#L32-L33) in `.github/workflows/run.yml`:
 
-   - **GIST_ID:** The ID portion from your gist url: `https://gist.github.com/inokawa/`**`64dacee1c6c93cdbcf48548f6598f823`**.
+   - **GIST_ID:** The ID portion from your gist url: `https://gist.github.com/inokawa/`**`64dacee1c6c93cdbcf48548f6598f223`**.
 
 1. Go to the repo **Settings > Secrets**
 1. Add the following environment variables:
